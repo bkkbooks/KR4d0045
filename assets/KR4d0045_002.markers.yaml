@@ -26,6 +26,7 @@ markers:
   - {type: line-break, offset: 9, content: '', id: KR4d0045_WYG_002-1a04}
   - {type: indent, offset: 9, content: 　, id: KR4d0045_krp_002-bkkind5}
   - {type: punctuation, offset: 10, content: (, id: KR4d0045_krp_002-bkkpn1}
+  - {type: voice, offset: 10, length: 26, name: note, id: n1}
   - {type: punctuation, offset: 23, content: /, id: KR4d0045_krp_002-bkkpn2}
   - {type: substitution, offset: 24, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17299}}
   - {type: substitution, offset: 35, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
@@ -255,6 +256,7 @@ markers:
   - {type: line-break, offset: 883, content: '', id: KR4d0045_WYG_002-3b08}
   - {type: indent, offset: 883, content: 　　, id: KR4d0045_krp_002-bkkind8}
   - {type: punctuation, offset: 888, content: (, id: KR4d0045_krp_002-bkkpn4}
+  - {type: voice, offset: 888, length: 11, name: note, id: n2}
   - {type: substitution, offset: 892, original: 㣲, replacement: 微, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19843}}
   - {type: punctuation, offset: 894, content: /, id: KR4d0045_krp_002-bkkpn5}
   - {type: substitution, offset: 896, original: 媿, replacement: 愧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17517}}
@@ -600,4 +602,4 @@ markers:
 
       ', id: KR4d0045_krp_002-bkkkrnewl125}
   back: []
-hash: sha256:6d7fac22cd7a8c01d0f1c0e9c7d56de00b85e228603e2301aca70554213e7b9a
+hash: sha256:5db74443304a625027e03278df2f079597072214c756004baee4729959d17860

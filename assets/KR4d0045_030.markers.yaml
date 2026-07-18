@@ -255,6 +255,7 @@ markers:
       ', id: KR4d0045_krp_030-bkkkrnewl51}
   - {type: line-break, offset: 784, content: '', id: KR4d0045_WYG_030-3b07}
   - {type: punctuation, offset: 797, content: (, id: KR4d0045_krp_030-bkkpn1}
+  - {type: voice, offset: 797, length: 75, name: note, id: n1}
   - {type: substitution, offset: 798, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
   - {type: substitution, offset: 802, original: 嘘, replacement: 噓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20763}}
   - {type: punctuation, offset: 805, content: /, id: KR4d0045_krp_030-bkkpn2}
@@ -510,6 +511,7 @@ markers:
   - {type: indent, offset: 1623, content: 　　, id: KR4d0045_krp_030-bkkind16}
   - {type: substitution, offset: 1623, original: 囘, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20167}}
   - {type: punctuation, offset: 1628, content: (, id: KR4d0045_krp_030-bkkpn10}
+  - {type: voice, offset: 1628, length: 5, name: note, id: n2}
   - {type: substitution, offset: 1629, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
   - {type: punctuation, offset: 1631, content: /, id: KR4d0045_krp_030-bkkpn11}
   - {type: punctuation, offset: 1633, content: ), id: KR4d0045_krp_030-bkkpn12}
@@ -1428,4 +1430,4 @@ markers:
 
       ', id: KR4d0045_krp_030-bkkkrnewl287}
   back: []
-hash: sha256:62fde07e441faf374f03ccba993c17763f0cab18bea06f8fe46a3856216973b1
+hash: sha256:bd466f74492c922a5322e23a4c27b904d483864666da49262021588c72067bde
